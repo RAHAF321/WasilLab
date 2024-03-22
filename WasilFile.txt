@@ -3,3 +3,9 @@ Hello wasil !!!!
 
          here is some cod ethat is inserted into the feature-branch and then added to the main branch.
          which is the task no 2 
+
+
+         this is third task of stash
+
+         23rd of March2024 learning the stashed changes
+         save this command
